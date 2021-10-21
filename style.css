@@ -11,9 +11,14 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.content-left {
+.float-left {
     float: left;
 }
+
+.float-right {
+    float: right;
+}
+
 .main-left {
     background-color:black;
     width: 100px;
@@ -36,10 +41,6 @@ body {
 
 .section {
     background-color: rgba(180, 117, 209, 0.527)
-}
-
-.section-right {
-    float: right;
 }
 
 .right {
@@ -66,9 +67,6 @@ p {
     background-color: rgba(225, 255, 91, 0.76);
 }
 
-.holder {
-    float: right;
-}
 
 .color {
     background-color: rgba(91, 250, 255, 0.5);
@@ -123,5 +121,3 @@ p {
     width: 600px;
     padding-right: 10px;
 }
-
-
